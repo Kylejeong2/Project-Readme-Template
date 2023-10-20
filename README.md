@@ -120,7 +120,7 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Kylejeong2_/Project-Name.git
    ```
 3. Install NPM packages
    ```sh
@@ -193,9 +193,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@Kylejeong21](https://twitter.com/your_username) 
+Your Name - [@Kylejeong21](https://twitter.com/Kylejeong21) 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Kylejeong2/repo_name](https://github.com/Kylejeong2/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
